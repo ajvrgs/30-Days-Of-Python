@@ -3,6 +3,7 @@
 
 print("Hello World!")   # print hello world
 print("hi honney joy!") # new print
+print("helloo aj") # new print 2
 print(2 + 3)   # addition(+)
 print(3 - 1)   # subtraction(-)
 print(2 * 3)   # multiplication(*)
