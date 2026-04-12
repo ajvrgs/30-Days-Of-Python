@@ -2,7 +2,7 @@
 # Day 1 - 30DaysOfPython Challenge
 
 print("Hello World!")   # print hello world
-
+print("hi honney joy!") # new print
 print(2 + 3)   # addition(+)
 print(3 - 1)   # subtraction(-)
 print(2 * 3)   # multiplication(*)
