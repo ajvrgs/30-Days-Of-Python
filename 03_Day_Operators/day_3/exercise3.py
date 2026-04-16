@@ -61,4 +61,28 @@ NumVal = int(input("enter number: "))
 numtotal = NumVal % 2
 print("even?: ", int(numtotal) == 0)
 #exercise 3.18
+floor_division = 7 // 3
+print("fd: ", int(floor_division))
+print("comparison_fd: ", int(floor_division) == int(2.7))
+#exercise 3.19
+print("comparison_10:", type("10") == type(10))
+#exercise 3.20
+print("3.20: ", int(9.8) is int(10))
+#exercise 3.21
+hours = float(input("Enter hours: "))
+rate = float(input("Enter rate per hour: "))
+earnings = hours * rate
+print("Your weekly earning is : ", float(earnings))
+#exercise 3.22
+years = int(input("Enter number of years you have lived: "))
+seconds = years * 365 * 24 *  60 * 60 
+print("You have lived for ", int(seconds), "seconds.")
+#exercise 3.23
+print("table:")
+print(1, 1, 1**2, 1**3)
+print(1, 2, 2**2, 2**3)
+print(1, 3, 3**2, 3**3)
+print(1, 4, 4**2, 4**3)
+print(1, 5, 5**2, 5**3)
+
 
