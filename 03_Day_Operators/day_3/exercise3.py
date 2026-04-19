@@ -67,7 +67,7 @@ print("comparison_fd: ", int(floor_division) == int(2.7))
 #exercise 3.19
 print("comparison_10:", type("10") == type(10))
 #exercise 3.20
-print("3.20: ", int(9.8) is int(10))
+print("3.20: ", int(9.8) == int(10))
 #exercise 3.21
 hours = float(input("Enter hours: "))
 rate = float(input("Enter rate per hour: "))
